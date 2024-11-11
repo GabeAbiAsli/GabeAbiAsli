@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbiAsli
+- 👋 Hi, I’m @GabeAbiAsli
 - 👀 I’m interested in coding, music, books ...
 - 🌱 I’m currently learning Python
 - 📫 How to reach me contact.gabrielabiasli@gmail.com

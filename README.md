@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GabeAbiAsli
+- 👋 Hi, I’m @AbiAsli
 - 👀 I’m interested in coding, music, books ...
 - 🌱 I’m currently learning Python
-- 📫 How to reach me contato.gabrielribeiroabiasli@gmail.com
+- 📫 How to reach me contact.gabrielabiasli@gmail.com
 
 <!---
 GabeAbiAsli/GabeAbiAsli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
